@@ -65,3 +65,8 @@ nav img {
 a:hover {
     color: #C8102E;
 }
+
+h1 {
+    border-bottom: 3px solid #C8102E;
+    padding-bottom: 10px;
+}
