@@ -1,7 +1,7 @@
 # BMIS 235 · HTML-3 · Links + CSS: Your Own Site
 
 **Name:** Dawson Mooney
-**GU username:** YOUR-GU-USERNAME
+**GU username:** dmooney3
 
 My live page: https://dawsonmahooney-dot.github.io/bmis235-html-3/
 
