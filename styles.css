@@ -57,3 +57,7 @@ footer {
     color: #777777;
     margin-top: 40px;
 }
+
+nav img {
+    border-radius: 6px;
+}
