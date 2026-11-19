@@ -61,3 +61,7 @@ footer {
 nav img {
     border-radius: 6px;
 }
+
+a:hover {
+    color: #C8102E;
+}
